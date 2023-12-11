@@ -1,0 +1,9 @@
+body{
+    background-color:#eee;
+}
+.btn-success{
+    margin-top:20px;
+    padding:1rem 3rem;
+    border-radius:30px;
+    border:none;
+}
